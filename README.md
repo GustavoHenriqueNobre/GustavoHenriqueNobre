@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://wa.me/5588988941787"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://instagram.com/nobreworks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gustavohnobre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -37,11 +37,10 @@ Junto **código** e **marketing**: desenvolvo a página e também cuido dos anú
 
 ### 📂 Projetos em destaque
 
-| Projeto | O que é | Link |
+| Projeto | O que é | Links |
 |---|---|---|
-| **Raulino Neto Advocacia** | Site one-page para advogado previdenciário e trabalhista: captação de leads via WhatsApp, SEO local, política de privacidade (LGPD) e aviso ético da OAB | [raulinonetoadvocacia.com.br](https://raulinonetoadvocacia.com.br) |
-| **Nossa Arena** | Landing page para complexo esportivo, focada em reservas e contato rápido | [ver site](LINK_DA_NOSSA_ARENA) |
-| **Agente de atendimento (n8n)** | Agente de IA que faz o primeiro atendimento de leads no WhatsApp e libera o dono do negócio | [ver repositório](LINK_DO_REPO) |
+| **Raulino Neto Advocacia** | Site institucional para escritório de advocacia: WhatsApp com mensagem por área, formulário, LGPD, regras da OAB e Schema.org | [site no ar](https://raulinonetoadvocacia.com.br) · [case](https://github.com/GustavoHenriqueNobre/case-raulino-neto-advocacia) |
+| **Landing page para advocacia previdenciária** | Modelo de página para advogados do INSS, pronta para tráfego pago e com botões medíveis por origem | [código](https://github.com/GustavoHenriqueNobre/lp-advocacia-previdenciaria) |
 
 ### 📈 Agora
 
