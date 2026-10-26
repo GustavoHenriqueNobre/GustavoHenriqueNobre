@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nobreworks.vercel.app"><img src="https://img.shields.io/badge/Site-Nobreworks-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Site da Nobreworks"></a>
   <a href="https://wa.me/5588988941787"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://instagram.com/nobreworks"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/gustavohnobre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -39,6 +40,7 @@ Junto **código** e **marketing**: desenvolvo a página e também cuido dos anú
 
 | Projeto | O que é | Links |
 |---|---|---|
+| **Nobreworks** | Meu site: tráfego pago, sites e vídeos para negócios locais, com vídeos reais de clientes | [site no ar](https://nobreworks.vercel.app) |
 | **Raulino Neto Advocacia** | Site institucional para escritório de advocacia: WhatsApp com mensagem por área, formulário, LGPD, regras da OAB e Schema.org | [site no ar](https://raulinonetoadvocacia.com.br) · [case](https://github.com/GustavoHenriqueNobre/case-raulino-neto-advocacia) |
 | **Landing page para advocacia previdenciária** | Modelo de página para advogados do INSS, pronta para tráfego pago e com botões medíveis por origem | [código](https://github.com/GustavoHenriqueNobre/lp-advocacia-previdenciaria) |
 
@@ -52,5 +54,5 @@ Junto **código** e **marketing**: desenvolvo a página e também cuido dos anú
 
 <p align="center">
   <b>Precisa de uma página que traga cliente?</b><br>
-  Me chama no <a href="https://wa.me/5588988941787">WhatsApp</a> ou no <a href="https://instagram.com/nobreworks">@nobreworks</a>.
+  Conheça o <a href="https://nobreworks.vercel.app">site da Nobreworks</a> ou me chama no <a href="https://wa.me/5588988941787">WhatsApp</a> ou no <a href="https://instagram.com/nobreworks">@nobreworks</a>.
 </p>
